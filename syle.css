@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css?family=Playfair+Display|Roboto");
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  background: linear-gradient(to right, #000428, #004e92);
+  height: 100vh;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: flex-start;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  font-size: 2rem;
+}
